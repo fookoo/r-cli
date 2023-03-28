@@ -1,0 +1,16 @@
+{
+  "name": "r-cli",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "bin": {
+    "r-cli": "./index.js"
+  },
+  "keywords": [],
+  "author": "Piotr Pliszczyński",
+  "license": "ISC",
+  "dependencies": {
+    "chalk": "^5.2.0"
+  }
+}
