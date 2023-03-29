@@ -1,11 +1,11 @@
 {
-  "name": "r-cli",
+  "name": "cli-r",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
   "type": "module",
   "bin": {
-    "r-cli": "./index.js"
+    "cli-r": "./index.js"
   },
   "keywords": [],
   "author": "Piotr Pliszczyński",
